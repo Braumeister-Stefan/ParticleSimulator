@@ -1,0 +1,5 @@
+object(alpha);n(1);rgb_parameters(1,0,0);loc_parameters(0,0,0);linear_parameters(0.0,0.1,0.0)
+object(beta);n(1);rgb_parameters(0,1,0);loc_parameters(0,10,0);linear_parameters(-0.0,-0.1,-0.0)
+object(sphere_alpha);n(3000);shape(sphere);diagonal(10);rgb_parameters(1,0.3,0);loc_parameters(10,-20,10);linear_parameters(0,0.9,0.09)
+object(sphere_beta);n(100);shape(sphere);diagonal(4);rgb_parameters(0.8,0.5,0);loc_parameters(10,100,50);linear_parameters(0,-0.98,-0.45)
+object(stationary_cube);n(3000);shape(cube);diagonal(35);rgb_parameters(0,1,0);loc_parameters(10,50,10);linear_parameters(0,-0.2,0.0.1)

@@ -1,0 +1,3 @@
+scenario(Physics Engine V1);objects(stationary_cube,sphere_alpha,sphere_beta);steps(10000);speed(1);interaction(kinetic_backtrack);radius(0.25);restitution_param(0.5);refresh_objects(true)
+scenario(alpha_static);objects(sphere_alpha);steps(7000);speed(1);interaction(kinetic_backtrack);radius(1);restitution_param(1);refresh_objects(false)
+scenario(oneVone);objects(alpha,beta);steps(10000);speed(1);interaction(kinetic_backtrack);radius(1);restitution_param(0);refresh_objects(false)
