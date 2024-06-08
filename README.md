@@ -1,4 +1,4 @@
-#Purpose of the repo
+# Purpose of the repo
 
 This code is the first c++ project I have built. It allows the user to specify in a txt file different point, sphere or cube shaped objects and collide them into each other. 
 
